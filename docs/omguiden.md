@@ -4,4 +4,4 @@ Jeg skrev denne guide, fordi jeg har snakket med mange transpersoner her i Danma
 
 Da testosteron er vurderet som et dopingmiddel af Lægemiddelstyrelsen, er det ulovligt at besidde uden recept. Så selvom jeg rigtig gerne ville, så kan denne guide derfor ikke dække DIY maskuliniserende hormonbehandling.
 
-Alt i guiden er skrevet ud fra mine egne oplevelser og ud fra samtaler jeg har haft med andre transpersoner. Jeg har ikke nogen medicinsk uddannelse og guiden kan have fejl. Hvis du finder noget som er forkert eller hvis du har information du vil tilføje, send en mail til [dktransguide@pm.me](mailto:dktransguide@pm.me).
+Alt i guiden er skrevet ud fra mine egne oplevelser og ud fra samtaler jeg har haft med andre transpersoner. Jeg har ikke nogen medicinsk uddannelse og guiden kan have fejl. Hvis du finder noget som er forkert eller hvis du har information du vil tilføje, send en mail til [kontakt@transguide.dk](mailto:kontakt@transguide.dk).

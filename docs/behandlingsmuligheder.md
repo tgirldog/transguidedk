@@ -14,7 +14,7 @@ CKI København har et ry for at behandle transpersoner meget dårligt, ofte stil
 
 CKI Odense er generelt ikke lige så dårlig som København, men den er ekstremt langsom. Mange oplever at vente i flere år, før deres sag bliver taget op på konference, og endnu længere, før de bliver godkendt til hormonbehandling.
 
-Uanset hvilken du vælger, vil der være problemer hos CKI. CKI kan være en af de billigste måder at få hormonbehandling på, men det er også den mest langsomme og besværlige. Mange oplever lange ventelister, diskrimination og ubehagelige samtaler med de ansatte. På grund af disse ting vil jeg ikke anbefale CKI til de fleste. Hvis du har autisme eller psykiske lidelser som angst, OCD, depression, PTSD osv., er der stor chance for, at de vil afvise dig. Det oplever mange i hvert fald, og det er også det, jeg selv har oplevet.
+Uanset hvilken du vælger, vil der være problemer hos CKI. CKI kan være en af de billigste måder at få hormonbehandling på, men det er også den mest langsomme og besværlige. Mange oplever lange ventelister, diskrimination og ubehagelige samtaler med de ansatte. På grund af disse ting vil jeg ikke anbefale CKI til de fleste. Hvis du har autisme eller psykiske lidelser som angst, OCD, depression, PTSD osv., er der stor chance for, at de vil afvise dig. Det oplever mange i hvert fald, og det er også det,'' jeg selv har oplevet.
 
 Hvis du gerne vil i behandling ved CKI, kan det være en god idé at starte et forløb dér, mens du samtidig bruger en af de andre muligheder, indtil du bliver godkendt til hormonbehandling hos dem.
 
