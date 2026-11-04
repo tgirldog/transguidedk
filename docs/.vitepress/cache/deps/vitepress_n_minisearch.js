@@ -1,4 +1,4 @@
-//#region node_modules/minisearch/dist/es/index.js
+// node_modules/minisearch/dist/es/index.js
 /** @ignore */
 var ENTRIES = "ENTRIES";
 /** @ignore */
@@ -1769,5 +1769,4 @@ var objectToNumericMapAsync = async (object) => {
 };
 var wait = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 var SPACE_OR_PUNCTUATION = /[\n\r\p{Z}\p{P}]+/u;
-//#endregion
 export { MiniSearch as default };

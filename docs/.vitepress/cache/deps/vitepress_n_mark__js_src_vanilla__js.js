@@ -1,4 +1,4 @@
-//#region node_modules/mark.js/src/lib/domiterator.js
+// node_modules/mark.js/src/lib/domiterator.js
 /**
 * A NodeIterator with iframes support and a method to check if an element is
 * matching a specified selector
@@ -445,8 +445,7 @@ var DOMIterator = class DOMIterator {
 		});
 	}
 };
-//#endregion
-//#region node_modules/mark.js/src/lib/mark.js
+// node_modules/mark.js/src/lib/mark.js
 /**
 * Marks search terms in DOM elements
 * @example
@@ -1466,8 +1465,7 @@ var Mark$1 = class {
 		}, this.opt.done);
 	}
 };
-//#endregion
-//#region node_modules/mark.js/src/vanilla.js
+// node_modules/mark.js/src/vanilla.js
 function Mark(ctx) {
 	const instance = new Mark$1(ctx);
 	this.mark = (sv, opt) => {
@@ -1488,5 +1486,4 @@ function Mark(ctx) {
 	};
 	return this;
 }
-//#endregion
 export { Mark as default };

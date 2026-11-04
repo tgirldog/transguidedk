@@ -33,7 +33,6 @@ export default defineConfig({
 
     sidebar: [
             {
-        text: 'Info',
         items: [
           { text: 'Manifesto', link: '/en/manifest' },
           { text: 'About the guide', link: '/en/omguiden' },
