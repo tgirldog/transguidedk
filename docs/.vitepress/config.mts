@@ -9,8 +9,8 @@ export default defineConfig({
       },
       en: {
         label: 'English',
-        lang: 'en', // optional, will be added  as `lang` attribute on `html` tag
-        link: '/en/' // default /fr/ -- shows on navbar translations menu, can be external
+        lang: 'en',
+        link: '/en/'
       }
     },
   markdown: {
@@ -20,7 +20,7 @@ export default defineConfig({
     },
   },
   head: [['link', { rel: 'icon', href: '/favicon-32x32.png' }]],
-  title: "DK Trans Guide",
+  title: "Trans Guide",
   cleanUrls: true,
   description: "En guide til at være trans i Danmark.",
   themeConfig: {
