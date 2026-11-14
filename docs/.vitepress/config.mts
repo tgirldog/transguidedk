@@ -20,7 +20,7 @@ export default defineConfig({
     },
   },
   head: [['link', { rel: 'icon', href: '/favicon-32x32.png' }]],
-  title: "Trans Guide",
+  title: "Trans Guide DK",
   cleanUrls: true,
   description: "En guide til at være trans i Danmark.",
   themeConfig: {
