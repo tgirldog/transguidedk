@@ -20,7 +20,7 @@ export default defineConfig({
     },
   },
   head: [['link', { rel: 'icon', href: '/favicon-32x32.png' }]],
-  title: "Trans Guide",
+  title: "Trans Guide DK",
   cleanUrls: true,
   description: "En guide til at være trans i Danmark.",
   themeConfig: {
@@ -36,6 +36,7 @@ export default defineConfig({
         items: [
           { text: 'Manifesto', link: '/en/manifest' },
           { text: 'About the guide', link: '/en/omguiden' },
+          { text: 'Blog', link: '/en/blog' },
         ]
       },
       {
@@ -48,6 +49,7 @@ export default defineConfig({
           { text: 'Homebrewing', link: '/en/homebrewing' },
           { text: 'Blood tests', link: '/en/blodprøver' },
           { text: 'Resources', link: '/en/resourcer' },
+          { text: 'FAQ', link: '/en/faq' },
         ]
       },
 

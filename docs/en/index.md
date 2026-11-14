@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Trans Guide"
+  name: "Trans Guide DK"
   text: ""
   tagline: A guide to being trans in Denmark.
   image:

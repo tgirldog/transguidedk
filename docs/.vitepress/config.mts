@@ -37,6 +37,7 @@ export default defineConfig({
         items: [
           { text: 'Manifest', link: '/manifest' },
           { text: 'Om guiden', link: '/omguiden' },
+          { text: 'Blog', link: '/blog'}
         ]
       },
       {
@@ -49,6 +50,7 @@ export default defineConfig({
           { text: 'Homebrewing', link: '/homebrewing' },
           { text: 'Blodprøver', link: '/blodprøver' },
           { text: 'Resoucer', link: '/resourcer' },
+          { text: 'FAQ', link: '/faq' },
         ]
       },
 
