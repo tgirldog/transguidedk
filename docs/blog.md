@@ -2,4 +2,4 @@
 
 
 
-- [Updateret domæne](/posts/opdateret-domæne.md)
+- [Updateret domæne (14/11/2026)](/posts/opdateret-domæne.md)
