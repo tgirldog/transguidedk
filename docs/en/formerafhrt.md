@@ -42,13 +42,13 @@ The most well-known anti-androgens are:
 * Cyproterone acetate (Cyproterone, Cypro, CPA)
 * Bicalutamide (Bica)
 
-Spironolactone is a weak anti-androgen, but it is also very safe. Common side effects include increased thirst, salt cravings, and frequent urination. Spironolactone is **not recommended** as a first-choice anti-androgen due to its weak anti-androgenic effect.
+**Spironolactone** is a weak anti-androgen, but it is also very safe. Common side effects include increased thirst, salt cravings, and frequent urination. Spironolactone is **not recommended** as a first-choice anti-androgen due to its weak anti-androgenic effect.
 
-Cyproterone is a highly effective anti-androgen when combined with estrogen. High doses should be avoided due to a more problematic risk profile. It is important to stay below a certain dosage, especially since cyproterone is typically sold in doses 4–8 times higher than those recommended for transfeminine individuals. A dose of 5–10 mg per day has near-maximal effectiveness in terms of suppressing testosterone, with a significantly lower risk.
+**Cyproterone** is a highly effective anti-androgen when combined with estrogen. High doses should be avoided due to a more problematic risk profile. It is important to stay below a certain dosage, especially since cyproterone is typically sold in doses 4–8 times higher than those recommended for transfeminine individuals. A dose of 5–10 mg per day has near-maximal effectiveness in terms of suppressing testosterone, with a significantly lower risk.
 
 If you are taking [cyproterone acetate](https://min.medicin.dk/Medicin/Indholdsstoffer/318), it is very important to monitor your prolactin levels closely. Cyproterone acetate carries a small risk of causing a [prolactinoma](https://en.wikipedia.org/wiki/Prolactinoma), a benign tumor of the pituitary gland. While this is not a common side effect of cyproterone acetate, it is important to consult your doctor if your prolactin levels are very high.
 
-Bicalutamide works in a slightly different way than other antiandrogens. Technically, it does not stop your body from producing testosterone; rather, it prevents testosterone from having an effect on your body. In fact, it causes your body to produce more testosterone because your body perceives a total lack of testosterone but this testosterone has no effect on your body because bicalutamide blocks it.
+**Bicalutamide** works in a slightly different way than other antiandrogens. Technically, it does not stop your body from producing testosterone; rather, it prevents testosterone from having an effect on your body. In fact, it causes your body to produce more testosterone because your body perceives a total lack of testosterone but this testosterone has no effect on your body because bicalutamide blocks it.
 
 Many people report that bicalutamide is better at preserving penile function, libido, and semen volume compared to other antiandrogens.
 
